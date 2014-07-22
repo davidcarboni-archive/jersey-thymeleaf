@@ -2,6 +2,7 @@
 Jersey meets Thymeleaf
 -----
 
+A simple proof-of-concept for using Thymeleam (http://thymeleaf.org) with a Jersey MessageBodyWriter.
 		
 David Carboni
 
